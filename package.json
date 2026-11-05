@@ -1,5 +1,5 @@
 {
-  "name": "ks3-render",
+  "name": "ks3-netrun",
   "version": "1.0.0",
   "scripts": { "start": "node index.js" },
   "dependencies": { "express": "^4.19.0" }
